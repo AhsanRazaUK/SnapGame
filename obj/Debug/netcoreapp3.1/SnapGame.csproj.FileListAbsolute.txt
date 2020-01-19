@@ -1,0 +1,10 @@
+C:\Users\ahsan\source\repos\SnapGame\bin\Debug\netcoreapp3.1\SnapGame.exe
+C:\Users\ahsan\source\repos\SnapGame\bin\Debug\netcoreapp3.1\SnapGame.deps.json
+C:\Users\ahsan\source\repos\SnapGame\bin\Debug\netcoreapp3.1\SnapGame.runtimeconfig.json
+C:\Users\ahsan\source\repos\SnapGame\bin\Debug\netcoreapp3.1\SnapGame.runtimeconfig.dev.json
+C:\Users\ahsan\source\repos\SnapGame\bin\Debug\netcoreapp3.1\SnapGame.dll
+C:\Users\ahsan\source\repos\SnapGame\bin\Debug\netcoreapp3.1\SnapGame.pdb
+C:\Users\ahsan\source\repos\SnapGame\obj\Debug\netcoreapp3.1\SnapGame.AssemblyInfoInputs.cache
+C:\Users\ahsan\source\repos\SnapGame\obj\Debug\netcoreapp3.1\SnapGame.AssemblyInfo.cs
+C:\Users\ahsan\source\repos\SnapGame\obj\Debug\netcoreapp3.1\SnapGame.dll
+C:\Users\ahsan\source\repos\SnapGame\obj\Debug\netcoreapp3.1\SnapGame.pdb
